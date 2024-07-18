@@ -75,6 +75,6 @@ This is the SceneFactory class. It is an implementation of the Factory design pa
 - JavaFX for the graphical user interface.
 
 ### Collaborators
-This game was developed by Ashish Bargoti and Aman Tomar as a simple JavaFX project.
+This game was developed by Shashank Mishra and Vinay Dubey as a simple JavaFX project.
 
 Have fun playing Stick Hero!
